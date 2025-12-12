@@ -1,0 +1,27 @@
+{
+    "general_info": {
+      "id": "",
+      "source": {
+            "type": "",
+            "location": 1
+        },
+      "destination": {
+            "type": "",
+            "location":1
+        },
+        "action": {
+            "type": "",
+            "product": {
+            "id": "",
+            "name": "",
+            "quantity": 1
+            }
+        },
+        "metadata": {
+            "date": "",
+            "message": "",
+            "priority": "",
+            "protocol": ""
+        }
+    }
+}

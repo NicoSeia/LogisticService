@@ -1,0 +1,104 @@
+```
+└── 📁.github
+    └── 📁actions
+        └── 📁build
+            └── action.yml
+        └── 📁coverage
+            └── action.yml
+        └── 📁documentation
+            └── action.yml
+        └── 📁style
+            └── action.yml
+    └── 📁workflows
+        └── workflow.
+└── 📁config
+    └── request_format.json
+└── 📁database
+    └── database.sql
+    └── inventoryDb.cpp
+    └── user_db.c
+└── 📁docker
+    └── database.sql
+    └── docker-compose.yml
+└── 📁include
+    └── 📁client
+        └── client.h
+    └── 📁common
+        └── alertHandler.hpp
+        └── anomalieHandler.hpp
+        └── 📁auth
+            └── auth_proxy.h
+            └── authReal.hpp
+        └── errorHandler.hpp
+        └── lowStockChecker.hpp
+        └── menu.h
+        └── orderStorage.hpp
+        └── orderValidation.hpp
+        └── utils.h
+    └── 📁database
+        └── inventoryDb.hpp
+        └── user_db.h
+    └── 📁server
+        └── server.hpp
+└── 📁src
+    └── 📁client
+        └── client.c
+        └── main.c
+    └── 📁common
+        └── alertHandler.cpp
+        └── anomalieHandler.cpp
+        └── 📁auth
+            └── auth_proxy.c
+            └── authReal.cpp
+        └── errorHandler.cpp
+        └── lowStockChecker.cpp
+        └── menu.c
+        └── orderStorage.cpp
+        └── orderValidation.cpp
+        └── utils.c
+    └── 📁server
+        └── main.cpp
+        └── server.cpp
+└── 📁test
+    └── 📁client
+        └── main.c
+        └── test_client.c
+    └── 📁common
+        └── 📁auth
+            └── test_auth_proxy.c
+            └── testAuthReal.cpp
+        └── testAlertHandler.cpp
+        └── testAnomalieHandler.cpp
+        └── testErrorHandler.cpp
+        └── testLowStockChecker.cpp
+        └── testOrderStorage.cpp
+        └── testOrderValidation.cpp
+    └── 📁database
+        └── testInventoryDb.cpp
+        └── testUserDb.cpp
+    └── 📁include
+        └── test_auth_proxy.h
+        └── test_client.h
+        └── testAlertHandler.hpp
+        └── testAnomalieHandler.hpp
+        └── testAuthReal.hpp
+        └── testErrorHandler.hpp
+        └── testInventoryDb.hpp
+        └── testLowStockChecker.hpp
+        └── testOrderStorage.hpp
+        └── testOrderValidation.hpp
+        └── testServer.hpp
+        └── testUserDb.hpp
+    └── 📁server
+        └── testServer.cpp
+└── .clang-format
+└── .gitignore
+└── CHANGELOG.md
+└── CMakeLists.txt
+└── CMakeUserPresets.json
+└── conanfile.txt
+└── Doxyfile
+└── folder_structure.md
+└── LICENSE
+└── README.md
+```
